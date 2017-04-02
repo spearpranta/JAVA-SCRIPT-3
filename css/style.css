@@ -1,0 +1,91 @@
+/*palindrome*/
+.prime{
+	background: #eee;
+}
+.multy{
+    margin: 0 auto;
+    float: none;
+    padding: 6em 0;
+}
+
+.prms{
+	width: 100%;
+padding: 12px 10px;
+background: rgba(164, 153, 145, 0.8);
+border: 1px solid #fef7f7;
+border-radius: 4px;
+color: #fff;
+text-align: center;
+font-weight: 700;
+font-size: 19px;
+}
+.prime .btn-custom{
+	padding: 12px 40px;
+	font-weight: 900;
+	font-size: 19px;
+
+    background-color: rgba(255, 255, 255, 0.78);
+    border: 1.5px solid #000;
+    color: #181818;
+
+	
+}
+.prime .btn-custom:hover{
+	
+	font-weight: 900;
+	font-size: 19px;
+	background-color: rgba(45, 45, 45, 0.78);
+	color: #fff;
+	
+}
+.PDresl{
+	min-height: 100px;
+width: 100%;
+background-color: rgba(164, 153, 145, 0.8);
+border: 1px solid #fff;
+border-radius: 4px;
+color: #fff;
+text-align: center;
+margin-top: 1em;
+
+}
+#PRe{
+	font-weight: 900;
+	font-size: 26px;
+	padding-top: 15px;
+}
+
+/*palindrome*/
+.Factor{
+	background:#000;
+	
+}
+.Factor .btn-custom{
+	padding: 12px 40px;
+	font-weight: 900;
+	font-size: 19px;
+
+    background-color: rgba(255, 255, 255, 0.78);
+    border: 1.5px solid #000;
+    color: #181818;
+
+	
+}
+.Factor .btn-custom:hover{
+	
+	font-weight: 900;
+	font-size: 19px;
+	background-color: rgba(45, 45, 45, 0.78);
+	color: #fff;
+}
+#PRed{
+	font-weight: 900;
+	font-size: 26px;
+	padding-top: 15px;
+}
+/*Fobinacci*/
+#FRed{
+	font-weight: 900;
+	font-size: 26px;
+	padding-top: 15px;
+}
